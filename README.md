@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="mailto:aya.mtkl.5@gmail.com"><img src="https://img.shields.io/badge/Email-aya.mtkl.5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/aya-moutaouakil"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/aya-moutaouakil-0b8b9a280"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/MOUTAOUAKIL-Aya"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 

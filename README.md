@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Sleek Cosmic Cyber Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,20,30&height=220&section=header&text=Aya%20MOUTAOUAKIL&fontSize=46&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Data%20%26%20Decision%20Intelligence&descAlignY=58&descSize=17&descAlign=50" width="100%" alt="Aya MOUTAOUAKIL Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Aya MOUTAOUAKIL Banner" />
 
   <br>
 
@@ -168,7 +168,7 @@ flowchart LR
 <div align="center">
 
   <!-- Sleek Cosmic Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,20,30&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
   <p><b>✨ "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra ✨</b></p>
   <p><i>Aya MOUTAOUAKIL • Open for Software Engineering, Distributed Systems & Data Architecture Opportunities</i></p>

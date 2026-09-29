@@ -7,7 +7,7 @@
 
   <!-- Interactive Terminal-Style Typing Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%8C%A8%EF%B8%8F+Full-Spectrum+Engineer%3A+From+Silicon+Registers+to+Enterprise+Clouds;%F0%9F%A7%A0+I+don't+just+use+frameworks+%E2%80%94+I+build+my+own+ORMs+%26+Protocols;%F0%9F%93%8A+Turning+Massive+Multi-Dimensional+Data+into+Executive+Decisions;%E2%9A%A1+Architecting+Distributed+Systems%2C+Real-Time+Sync+%26+Algorithms" alt="Aya's Dynamic Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Spectrum+Engineer%3A+From+Silicon+Registers+to+Enterprise+Clouds;Mastering+Modern+Frameworks+and+Deep+Software+Architecture;Turning+Complex+Multi-Dimensional+Data+into+Actionable+Decisions;Architecting+Distributed+Systems%2C+Real-Time+Sync+and+Algorithms" alt="Aya's Dynamic Tagline" />
   </a>
 
   <br><br>
@@ -31,7 +31,7 @@
 
 ---
 
-### 💻 `whoami --verbose`
+### Profile Overview
 
 ```bash
 ╭─ aya@workstation ~
@@ -53,25 +53,25 @@
 
 ---
 
-### ⚡ The Full-Spectrum Engineering Blueprint
+### Full-Spectrum Engineering Architecture
 
 > *Most developers stay in a single abstraction layer. I choose to master the entire stack — understanding how CPU registers, network sockets, enterprise backends, and decision models interact seamlessly.*
 
 ```mermaid
 flowchart LR
-    A["⚙️ 1. Silicon & Registers<br>• x86 Assembly (TASM)<br>• Arduino & PWM<br>• Proteus Circuits"] --> B["🧠 2. Core CS & Algorithms<br>• C++ AI Chess Engine<br>• Custom Hash Tables<br>• MATLAB Numerical Analysis"]
-    B --> C["☕ 3. Enterprise & Systems<br>• Jakarta EE 10 (MVC)<br>• Custom-Built ORM<br>• Java RMI & UDP Multicast"]
-    C --> D["📊 4. Decision Intelligence<br>• Power BI Dashboards<br>• Advanced DAX Modeling<br>• Real Data Warehouses"]
+    A["1. Silicon & Registers<br>• x86 Assembly (TASM)<br>• Arduino & PWM<br>• Proteus Circuits"] --> B["2. Core CS & Algorithms<br>• C++ AI Chess Engine<br>• Custom Hash Tables<br>• MATLAB Numerical Analysis"]
+    B --> C["3. Enterprise & Systems<br>• Jakarta EE 10 (MVC)<br>• Custom-Built ORM<br>• Java RMI & UDP Multicast"]
+    C --> D["4. Decision Intelligence<br>• Power BI Dashboards<br>• Advanced DAX Modeling<br>• Real Data Warehouses"]
 ```
 
 ---
 
-### 🏆 Curated Project Showcase
+### Project Portfolio
 
 <br>
 
 <details open>
-<summary><h3>📊 1. Decision Intelligence, Data Modeling & Business Analytics</h3></summary>
+<summary><h3>1. Decision Intelligence, Data Modeling & Business Analytics</h3></summary>
 
 > *Transforming real-world complex data into actionable executive insights with custom metrics and dimensional modeling.*
 
@@ -87,7 +87,7 @@ flowchart LR
 <br>
 
 <details open>
-<summary><h3>☕ 2. Enterprise Architecture, Custom Engines & Distributed Systems</h3></summary>
+<summary><h3>2. Enterprise Architecture, Custom Engines & Distributed Systems</h3></summary>
 
 > *Engineering from first principles: writing custom ORMs and network protocols rather than relying solely on black-box frameworks.*
 
@@ -101,7 +101,7 @@ flowchart LR
 <br>
 
 <details open>
-<summary><h3>🧠 3. Computational Mathematics, Algorithmic Engines & AI</h3></summary>
+<summary><h3>3. Computational Mathematics, Algorithmic Engines & AI</h3></summary>
 
 > *Tackling algorithmic complexity, discrete mathematics, and game theory.*
 
@@ -118,7 +118,7 @@ flowchart LR
 <br>
 
 <details open>
-<summary><h3>⚡ 4. Low-Level Silicon, Assembly & Hardware Control</h3></summary>
+<summary><h3>4. Low-Level Silicon, Assembly & Hardware Control</h3></summary>
 
 > *Direct memory manipulation, microcontrollers, and electronic signal regulation.*
 
@@ -133,7 +133,7 @@ flowchart LR
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Skills & Tooling
 
 <div align="center">
 
@@ -170,7 +170,7 @@ flowchart LR
   <!-- Sleek Cosmic Footer -->
   <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
-  <p><b>✨ "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra ✨</b></p>
+  <p><b>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</b></p>
   <p><i>Aya MOUTAOUAKIL • Open for Software Engineering, Distributed Systems & Data Architecture Opportunities</i></p>
 
 </div>

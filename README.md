@@ -94,16 +94,38 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🏆 Engineering Highlights & Technical Competencies
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOUTAOUAKIL-Aya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aya's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUTAOUAKIL-Aya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+| 📊 Decision Intelligence & Data Modeling | ☕ Enterprise Backend & Software Design | 🌐 Distributed Systems & Networking |
+| :--- | :--- | :--- |
+| • **Healthcare BI Analytics:** Production-grade dashboards for University Hospitals (CHU Fès) and private clinic networks.<br>• **Advanced DAX Formulas:** Calculated KPIs for revenue recovery, doctor workload, patient recurrence, and research validation.<br>• **Multi-Source Ingestion:** Relational schema design, dimensional modeling, and interactive reporting views. | • **Custom ORM Development:** Engineered a dynamic Object-Relational Mapping engine in pure Java to bridge SQL and entities.<br>• **3-Tier Decoupled MVC:** Implementation of strict Front-Controller, Service Layer, and DAO design patterns.<br>• **Jakarta EE 10:** Robust Servlets, JSP templates, connection pooling, and resilient MySQL 8+ integration. | • **Asynchronous RMI Callbacks:** Zero-polling collaborative architectures with real-time state synchronization (WYSIWIS).<br>• **UDP Multicast Protocol:** Concurrent multi-client canvas drawing across Class D multicast groups.<br>• **Socket Engineering:** Low-level TCP stream servers and UDP datagram sockets with multi-threading and loop protection. |
 
-  <br>
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOUTAOUAKIL-Aya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br>
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    subgraph Data ["📊 Data & Decision Intelligence"]
+        A["Hospital & Clinical Records"] --> B["Dimensional Modeling & DAX"]
+        B --> C["Interactive Power BI Dashboards"]
+    end
+
+    subgraph Backend ["☕ Enterprise Architecture"]
+        D["Jakarta EE Web Layer"] --> E["MVC Controller & Services"]
+        E --> F["Custom Lightweight ORM"]
+        F --> G[("MySQL 8+ Database")]
+    end
+
+    subgraph Distributed ["🌐 Distributed Systems"]
+        H["Concurrent Clients"] <--> I["Java RMI & Callbacks"]
+        H <--> J["UDP Multicast Engine"]
+    end
+```
 
 </div>
 
